@@ -1,0 +1,6 @@
+User-agent: Yandex
+Allow: /index.html
+Allow: /sitemap.xml
+User-agent: Google
+Allow: /index.html
+Allow: /sitemap.xml
